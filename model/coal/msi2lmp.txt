@@ -1,0 +1,2 @@
+
+msi2lmp.exe C39H37NO10S -p 2 -c 2 -f ../frc_files/pcff -i

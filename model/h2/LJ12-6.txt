@@ -1,0 +1,9 @@
+mass               1  2.0159
+pair_style        lj/cut   15
+
+pair_coeff         1  1  0.072896  2.958
+
+
+
+
+The grand canonical Monte Carlo simulation of hydrogen adsorption in single-walled carbon nanotubes
